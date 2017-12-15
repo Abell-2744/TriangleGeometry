@@ -28,10 +28,10 @@ npm test
 ### And coding style tests
 
 Sample Test input:
-1.5 1.5 1.5   //Equallitaral
-3 4 4         //Isosceles
-4.4 7.3 9.1   //Scalene
-4 6 11        //Not a Triangle
+1.5 1.5 1.5   //Equallitaral <br>
+3 4 4         //Isosceles<br>
+4.4 7.3 9.1   //Scalene<br>
+4 6 11        //Not a Triangle<br>
 
 Sample test output:
   Triangle Geometry
