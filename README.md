@@ -20,8 +20,8 @@ Go to http://nodejs.org, download and install version 7.8.0
 Download source code from .....
 
 ## Running the tests
-npm install mocha
-npm install chai
+npm install mocha<br>
+npm install chai<br>
 
 npm test
 
@@ -33,25 +33,25 @@ Sample Test input:
 4.4 7.3 9.1   //Scalene<br>
 4 6 11        //Not a Triangle<br>
 
-Sample test output:
-  Triangle Geometry
-    ✓ should be equilateral
-    ✓ should be isosceles
-    ✓ should be scalene
-    ✓ should be not a triangle
-  4 passing (10ms)
+Sample test output:<br>
+  Triangle Geometry<br>
+    ✓ should be equilateral<br>
+    ✓ should be isosceles<br>
+    ✓ should be scalene<br>
+    ✓ should be not a triangle<br>
+  4 passing (10ms)<br>
 
 ## Deployment and Execute code
 Download files from github
 
 run - nmp install
 
-Execute code from command;
-cd to folder Flexion/src
-node TriangleGeometry 1.5 1.5 1.5
-node TriangleGeometry 3 4 4
-node TriangleGeometry 4.4 7.3 9.1
-node TriangleGeometry 4 6 11
+Execute code from command;<br>
+cd to folder Flexion/src<br>
+node TriangleGeometry 1.5 1.5 1.5<br>
+node TriangleGeometry 3 4 4<br>
+node TriangleGeometry 4.4 7.3 9.1<br>
+node TriangleGeometry 4 6 11<br>
 
 
 
