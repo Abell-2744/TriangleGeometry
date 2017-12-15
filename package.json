@@ -1,0 +1,15 @@
+{
+  "name": "flexion",
+  "version": "1.0.0",
+  "description": "Classify triangles from line segments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/TestTriangleGeometrySpec"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}

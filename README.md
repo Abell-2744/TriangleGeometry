@@ -44,7 +44,7 @@ Sample test output:
 ## Deployment and Execute code
 Download files from github
 
-run - npm install
+run - nmp install
 
 Execute code from command;
 cd to folder Flexion/src
@@ -52,7 +52,6 @@ node TriangleGeometry 1.5 1.5 1.5
 node TriangleGeometry 3 4 4
 node TriangleGeometry 4.4 7.3 9.1
 node TriangleGeometry 4 6 11
-
 
 
 
