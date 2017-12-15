@@ -8,10 +8,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Javascript ES5/ES6
-Node.js
-Mocha.js
-Chai.js
+Javascript ES5/ES6<br>
+Node.js<br>
+Mocha.js<br>
+Chai.js<br>
 
 ### Installing
 
