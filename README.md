@@ -17,7 +17,7 @@ Chai.js
 
 Go to http://nodejs.org, download and install version 7.8.0
 
-Download source code from .....
+Download/Clone source code from https://github.com/Abell-2744/TriangleGeometry.git
 
 ## Running the tests
 npm install mocha<br>
